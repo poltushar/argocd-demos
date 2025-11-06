@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - tusharpol/chai-devops:v1.0.3
+  - tusharpol/chai-devops:v1.0.4
