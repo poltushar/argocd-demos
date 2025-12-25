@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chai-app
-        image: docker push tusharpol/chai-devops:latest
+        image: tusharpol/chai-devops:latest
         ports:
         - containerPort: 80
         env:
